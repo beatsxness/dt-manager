@@ -1,8 +1,6 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-You can be your own technical director.
-In charge of the direction, instruction and training of an individual athlete or a group of athletes.
 
 ## Available Scripts
 
